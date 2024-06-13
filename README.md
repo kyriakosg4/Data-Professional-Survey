@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Introduction
+### Introduction
 This project involves the creation of an insightful Power BI dashboard based on a comprehensive survey conducted within the data field. The survey aimed to gather and analyze responses from individuals working in various data-related roles, focusing on several key areas of interest. The primary objective of this dashboard is to present the survey findings in an interactive and visually appealing manner, allowing stakeholders to quickly grasp important insights about the participants' experiences and preferences.
 
 ## Objectives
